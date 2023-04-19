@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,ai.com
 # Add stripe.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
-
 DOMAIN, cdn.auth0.com
 DOMAIN, openaiapi-site.azureedge.net
 DOMAIN-SUFFIX, identrust.com
